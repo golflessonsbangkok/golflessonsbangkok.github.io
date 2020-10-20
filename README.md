@@ -1,2 +1,2 @@
-# golfswinglessonsbangkok.github.io
+# golflessonsbangkok.github.io
 GitHub Pages
